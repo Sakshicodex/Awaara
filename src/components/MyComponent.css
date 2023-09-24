@@ -1,0 +1,39 @@
+/* In your CSS file */
+.google-icon {
+    /* Add styles for the icon */
+    width: 24px; /* Adjust the width and height as needed */
+    height: 24px;
+    
+    /* Set the color of the icon */
+  }
+  
+  .google-button {
+    /* Add styles for the button */
+   background: #fff;
+   /* Set the text color */
+    border: none;
+    justify-items: centre;
+    margin-left: 5px;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+    
+  }
+  
+  .google-button:hover {
+    /* Add hover styles if desired */
+    
+  }
+
+  .google-button-container {
+    display: flex;
+    justify-content: space around; /* Aligns the button to the right */
+    margin-top: 20px;
+    margin-left: 110px;
+    align-items: centre;
+     /* Adjust as needed */
+  }
+  
+
+  
+  

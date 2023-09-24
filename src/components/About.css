@@ -1,0 +1,100 @@
+* {
+    margin: 0px;
+    box-sizing: border-box;
+    padding: 0px;
+  }
+  
+  @import url('https://fonts.googleapis.com/css2?family=Croissant+One&family=Oswald&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Skranji&display=swap');
+  @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:200');
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+.FULLPAGE{
+  opacity: 0;
+  transform: translateY(-50px);
+  animation: dropIn 3s ease forwards;
+}
+  .box-container {
+    background-image: url('https://static.pexels.com/photos/414171/pexels-photo-414171.jpeg');
+    background-size: cover;
+    -webkit-animation: slidein 100s;
+    animation: slidein 100s;
+    -webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+    -webkit-animation-direction: alternate;
+    animation-direction: alternate;
+    display: flex;
+    flex-direction: column; /* Stack children vertically */
+    align-items: center;
+    /* justify-content: center; */
+    height: 100vh;
+    position: relative; /* Add this to make child elements position relative to the container */
+    
+  }
+  
+  @-webkit-keyframes slidein {
+    from {
+      background-position: top;
+      background-size: 3000px;
+    }
+    to {
+      background-position: -100px 0px;
+      background-size: 2750px;
+    }
+  }
+  
+  @keyframes slidein {
+    from {
+      background-position: top;
+      background-size: 3000px;
+    }
+    to {
+      background-position: -100px 0px;
+      background-size: 2750px;
+    }
+  }
+  
+  .heading {
+    color: rgb(255, 0, 0);
+    font-size: 2.5rem;
+    font-family: 'Croissant One', cursive;
+  }
+  
+  .description-box {
+    /* background-color: rgba(245, 7, 7, 0.958); Transparent white background */
+    border: 2px solid #000; /* Add border */
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    margin-top: 100px; /* Adjust as needed */
+    margin-left: 300px;
+    margin-right: 300px;
+  }
+  .description-box p{
+    color: black;
+    font-family: 'Caveat', cursive;
+    font-size: 1.3rem;
+  }
+.awaaraabout{
+    padding: 12px;
+    color: black;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 3rem;
+    text-decoration: underline;
+}
+  
+  .l {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+  }
+  
+  @keyframes dropIn {
+    to {
+      opacity: 1;
+      transform: translateY(0);
+      background-size: cover; /* Ensure the background size remains 'cover' */
+    }
+  }
+  @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600&display=swap');

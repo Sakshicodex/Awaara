@@ -1,0 +1,15 @@
+/* Trips.module.css */
+
+.trips-container {
+    background-image: url("https://images.pexels.com/photos/221471/pexels-photo-221471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-size: cover; /* You can adjust this property to control how the image is displayed */
+    min-height: 100vh; /* Set a minimum height to fill the viewport */
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    min-height: 100vh; /* Ensure it takes up at least the full viewport height */
+  }
+  
+  .card-container {
+    margin: 50px; /* Adjust this value to control the spacing between cards */
+  }

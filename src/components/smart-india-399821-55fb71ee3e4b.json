@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "smart-india-399821",
+  "private_key_id": "55fb71ee3e4b91be871389039e6c020f5ec0b36c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5wXCLn0Yblr9x\nD6vEj43Tlbg7OwRIpvzYuDk4f5QpRXtSAVs305j145B9iu0gA8rkWjrb6fgWOZhd\nsa4cW7IUrqvGgHwkPzydYCaiqmfZGiDAsRAFvY6mUyUGR1G2qlCLJPxJtpfkqcb/\nLzRwew5uvi79EDcigQEuz/9SA+FjLBB6c0CoRUhByO9z6iCUS/vFFokY0bNw1Rk2\n+o8DGjLPwXZ3lMQVgdiEWlA7mi/Ti5bYl1rW2c6sGhQgPf5iQebX3YWkhjifRBBW\n9trUr/qMGvY8VkY6HD1A27ox+FoNa/EafKr7lvRUjndXYIOapo8eZFqMRdNXDQmt\nEMEY0zapAgMBAAECggEAQjx47kCAFkxdvWoSHMf3ka/8fppfv6xT0s92D/BmG4Vc\nIPS82x5Hl75qgmmsflL74QtPm6VFQl+NNjOqWxBTYs6aD/E20xH9gjyL6ksLNr37\nWdqJVRKvsB1LwX5i49i9WbB5iatjZDUp8Uqaz1UB43lLdg93KYWIr3GZoFwj3WF4\nenGBI9jxOQvCfl5K6mnZPMGGthpjI66Pr1z3GTcgfXyNVvYInbkuc1mVAh3ASD0g\nsT12bNGkb1bCbV0JtavTvcIT4BSBR0kMyI33y4+Ct5IH6y8niIUFz/bI3/cB+TOF\nOiHGDiHLMvXO5Mf7j5jrNShS6SIBVhFywcogjeD89QKBgQDfaLnzFgJuqJVbL3qP\n+rtqcyIcM5N9MfYsy1igbmZEu90kOKNDV+J/kE4s25GwFVpgUzJx9P5yIcQ/LDIi\ndoJudpHLq24N0lrXonpDBD+TZJrw5sJDvjAmBApu0p2zTGep6oOqGEOoYRe+QWT3\nSgas5bxLrfHKWU/RujugTdj4fwKBgQDU2ojKDnblGdp9Ya/o19Kg00nSrfQiODxM\nFqkwmk8mbs3o7tEU58zZ8Fr202N+xKEM0tH3nPvqgJgtDK2l4najlDRGyGWMEcHy\nveZE3toib0cmU9MZz2bbNL+VHHdSCgNocExuqnjjuEwky/wuArtC9hcKCxyncFw/\n5ijDakN81wKBgQCx+MupSq9FWCcjLP+GE0eZ1X4m2S91XIevx44iv8/YkY/pevUU\ngL5+wIaGVaQJkfkdIyncfj70zNF5QcvuiFn/hZU/mqFhgWG8xkJ/gLLkyBBmOG4p\naSkSH8Xv4vieDQ/H3Hpm1k2PpUk01wOHvAD1W05VO4ySlfNwL9uwKFPgIQKBgFoO\nW/GhTQyBc7+4pQSOy77fpkxM7Q3NXTWUIOE/aF2KY/Q5lpyRtko/Nz1XErF/3+Pd\nDpkFAlClN71Xr+CPgEKVYcjQ4KXynWxmjBZ3czM+gYvly1sQNSRpnOUpthIvymFV\nogDwf1VZlF29MGUHItOh6v2E1grBr0YZywVi4ErhAoGAPdKnOENZ2B4YmOSj6qQ3\netuXq6ym0RoWD+D7EZ9jrnqKnuRrjpVPIsPPJw+5kwsKBsXHvNiZNy8hoKQ2sKNX\n7jE6byWdhCRmFguSHhsxHVofry/MAkY/hTeQOyFG48zlcl/RAox+tmDN6WTuEg7p\nnLTEzwSC7v1JNKktbvIgN2s=\n-----END PRIVATE KEY-----\n",
+  "client_email": "garvitsharma@smart-india-399821.iam.gserviceaccount.com",
+  "client_id": "106503693107346554326",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/garvitsharma%40smart-india-399821.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,42 @@
+.hero {
+    background-color: black;
+    padding: 20px;
+  }
+  
+  .title {
+    font-size: 24px;
+    color: #333;
+  }
+
+ 
+  .space {
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    isolation: isolate;
+  }
+  #Ring {
+    mix-blend-mode: difference;
+  }
+  .mamboleoo {
+    position: absolute;
+    opacity: 0;
+    stroke-width: 1.5px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    fill: none;
+    width: 30vw;
+    top: 68vh;
+    left: 35vw;
+  }
+  
+  .gs-dev-tools {
+    opacity: 0.4;
+  }
+  .gs-dev-tools:hover,
+  .gs-dev-tools:focus {
+    opacity: 1;
+  }
+  
